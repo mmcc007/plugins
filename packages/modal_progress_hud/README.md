@@ -3,13 +3,12 @@
 A simple widget wrapper to enable modal progress HUD (a modal progress indicator)
 
 [![pub package](https://img.shields.io/pub/v/modal_progress_hud.svg)](https://pub.dartlang.org/packages/modal_progress_hud)
-[![Build Status](https://travis-ci.org/mmcc007/modal_progress_hud.svg?branch=master)](https://travis-ci.org/mmcc007/modal_progress_hud)
 
 Inspired by [this](https://codingwithjoe.com/flutter-how-to-build-a-modal-progress-indicator/) article.
 
 
 ## Demo
-![Demo](https://github.com/mmcc007/modal_progress_hud/blob/master/modal_progress_hud.gif)
+![Demo](https://github.com/mmcc007/plugins/blob/master/packages/modal_progress_hud/modal_progress_hud.gif)
 
 *See example for details*
 
@@ -89,13 +88,13 @@ class _SettingsPageState extends State<SettingsPage> {
 
 ## Example
 
-See the [example application](https://github.com/mmcc007/modal_progress_hud/tree/master/example) source
+See the [example application](https://github.com/mmcc007plugins/packages/modal_progress_hud/tree/master/example) source
 for a complete sample app using the modal progress HUD. Included in the
 example is a method for using a form's validators while making async
 calls (see [flutter/issues/9688](https://github.com/flutter/flutter/issues/9688) for details).
 
 ## Issues and feedback
 
-Please file [issues](https://github.com/mmcc007/modal_progress_hud/issues/new)
+Please file [issues](https://github.com/mmcc007/plugins/issues/new)
 to send feedback or report a bug. Thank you!
 
